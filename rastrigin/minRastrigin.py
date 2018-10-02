@@ -1,4 +1,7 @@
 
+
+#Caio, Emerson e Daniel Alves
+
 import math
 import numpy as np
 from scipy.optimize import differential_evolution
